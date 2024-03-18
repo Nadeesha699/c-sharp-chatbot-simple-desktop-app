@@ -1,0 +1,53 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Languages\\C#\\ChatBotApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C979F3E-3B5F-4A69-AB82-6C802A89C56D}|ChatBotApp\\ChatBotApp.csproj|d:\\languages\\c#\\chatbotapp\\chatbotapp\\botme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C979F3E-3B5F-4A69-AB82-6C802A89C56D}|ChatBotApp\\ChatBotApp.csproj|solutionrelative:chatbotapp\\botme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C979F3E-3B5F-4A69-AB82-6C802A89C56D}|ChatBotApp\\ChatBotApp.csproj|D:\\Languages\\C#\\ChatBotApp\\chatbotapp\\botme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{6C979F3E-3B5F-4A69-AB82-6C802A89C56D}|ChatBotApp\\ChatBotApp.csproj|solutionrelative:chatbotapp\\botme.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BotMe.cs",
+              "DocumentMoniker": "D:\\Languages\\C#\\ChatBotApp\\ChatBotApp\\BotMe.cs",
+              "RelativeDocumentMoniker": "ChatBotApp\\BotMe.cs",
+              "ToolTip": "D:\\Languages\\C#\\ChatBotApp\\ChatBotApp\\BotMe.cs",
+              "RelativeToolTip": "ChatBotApp\\BotMe.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T23:37:36.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BotMe.cs [Design]",
+              "DocumentMoniker": "D:\\Languages\\C#\\ChatBotApp\\ChatBotApp\\BotMe.cs",
+              "RelativeDocumentMoniker": "ChatBotApp\\BotMe.cs",
+              "ToolTip": "D:\\Languages\\C#\\ChatBotApp\\ChatBotApp\\BotMe.cs [Design]",
+              "RelativeToolTip": "ChatBotApp\\BotMe.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-03-15T23:36:17.102Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
